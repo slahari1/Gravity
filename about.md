@@ -10,11 +10,18 @@ My Myers-Briggs personality type is INFP. I often overthink things and get anxio
 I am an outspoken and loyal friend once I have become comfortable! I love food, art, and music and it shows in everything that I do. I'll get 
 into the details of what I like and dislike next!
 </p>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Posting</strong>
-  </div>
-<p>  <div class="manual-content">
+<br>
+<h3>Music I Like</h3>>
+<p>I have a pretty eclectic taste in music. I listen to a lot of different styles and genres, anywhere from electronic-trap to jazz and symphonic. 
+I have been particularly interested in k-pop, as I recently learned more about the culture and language. Some artists that I quite like are Norah Jones, 
+Blackbear, BTS, Chance the Rapper, Kendrick Lamar, Nat King Cole, and Khalid. 
+</p>
+<br>
+<p>
+Here are some links to soundcloud and spotify for the music I generally listen to:
+</p>
+
+
 
 ```
   - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
