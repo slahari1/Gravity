@@ -4,11 +4,12 @@ title : About
 permalink: /about/
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
-<br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
-<br>
+<h2>A Little About Me</h2>
+<p>I am a junior at the University of North Carolina at Chapel Hill! I am pursuing a Computer Science B.A and a Cognitive Science minor. 
+My Myers-Briggs personality type is INFP. I often overthink things and get anxious about silly stuff. I am kind of shy at first but 
+I am an outspoken and loyal friend once I have become comfortable! I love food, art, and music and it shows in everything that I do. I'll get 
+into the details of what I like and dislike next!
+</p>
 <div class="manual-post">
   <div class="manual manual-title">
   <strong>Posting</strong>

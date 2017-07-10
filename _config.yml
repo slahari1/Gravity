@@ -16,6 +16,6 @@ email: lahari1@live.unc.edu
 github_username:  slahari1
 paginate: 5
 
-gems: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
