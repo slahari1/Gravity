@@ -20,14 +20,14 @@ Blackbear, BTS, Chance the Rapper, Kendrick Lamar, Nat King Cole, and Khalid.
 <p>
 Here are some links to soundcloud and spotify for the music I generally listen to:
 </p>
-<a href="https://soundcloud.com/iamblackbear">Blackbear</a>
+<a href="https://soundcloud.com/iamblackbear" target="_blank"> Blackbear</a>
 <br>
-<a href="https://soundcloud.com/bangtan">BTS</a>
+<a href="https://soundcloud.com/bangtan" target="_blank">BTS</a>
 <br>
-<a href="https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg?play=true&utm_source=open.spotify.com&utm_medium=open&play=true">Kendrick</a>
+<a href="https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg?play=true&utm_source=open.spotify.com&utm_medium=open&play=true" target="_blank">Kendrick</a>
 <br>
-<a href="https://open.spotify.com/search/results/chance%20the%20rapper">Chance</a>
+<a href="https://open.spotify.com/search/results/chance%20the%20rapper" target="_blank" >Chance</a>
 <br>
-<a href="https://soundcloud.com/norahjonesofficial">Norah Jones</a>
+<a href="https://soundcloud.com/norahjonesofficial" target="_blank">Norah Jones</a>
 
 
