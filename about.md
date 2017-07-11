@@ -29,5 +29,11 @@ Here are some links to soundcloud and spotify for the music I generally listen t
 <a href="https://open.spotify.com/search/results/chance%20the%20rapper" target="_blank" >Chance</a>
 <br>
 <a href="https://soundcloud.com/norahjonesofficial" target="_blank">Norah Jones</a>
+<br>
+<h4>Art that I Like</h4>
+<p>I have been interested in art my entire life. I was always in painting classes and drawing was my number one pastime. 
+Though I do still thoroughly enjoy it, as a college student I have less time to work on my own projects. So during the school year I peruse pinterest
+for art that I find inspiring.
 
+</p>
 

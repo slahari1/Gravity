@@ -150,11 +150,11 @@ a {
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($text-color, 15%);
     }
 
     &:hover {
-        color: black !important;
+        color: black !important; 
         border-bottom: 1px dotted black ;
     }
 
