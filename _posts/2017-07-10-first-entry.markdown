@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "First Entry: INLS 161"
+title:  "First Entry: Learning About Myself"
 date:   2017-07-10 19:45:31 +0530
 categories: ["science"]
 author: "Lahari Pullakhandam"
 ---
-first entry about inls161
+Every day I discover something new
 
-GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
-GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+
+
+
+
