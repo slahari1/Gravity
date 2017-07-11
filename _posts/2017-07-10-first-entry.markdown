@@ -22,7 +22,7 @@ and that made me very happy.
 I am inspired by the writing of my dear friend Kristen Luft, who puts her heart and soul into every word she pours onto the page. 
 
 This is her blog: 
-<a href="https://kristenluft.wordpress.com/" target="_blank">Kristen's Blog</a>
+<a href="https://kristenl17.wordpress.com/" target="_blank">Kristen's Blog</a>
 
 -Lahari
 
