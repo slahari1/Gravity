@@ -19,9 +19,10 @@ feats and moments as well.
 I'd like to end this with something I felt good about today. I was surrounded by the bustle and chatter of family and I had a great conversation with my mom
 and that made me very happy.
 
-I am inspired by the writing of my dear friend Kristen Luft, who puts her heart and soul into every word she pours onto the page. This is her blog: 
+I am inspired by the writing of my dear friend Kristen Luft, who puts her heart and soul into every word she pours onto the page. 
+
+This is her blog: 
 <a href="https://kristenluft.wordpress.com/" target="_blank">Kristen's Blog</a>
-I highly recommend reading!
 
 -Lahari
 
