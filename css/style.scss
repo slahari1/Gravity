@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: #aaa !important;
+    color: #3a3a3a !important;
     text-decoration: none;
 
     &:visited {
@@ -179,7 +179,7 @@ a {
       color: black !important;
       &:hover {
 
-          border-bottom: 1px dotted black !important ;
+          border-bottom: 2px dotted black !important ;
       }
 
       &:visited {
