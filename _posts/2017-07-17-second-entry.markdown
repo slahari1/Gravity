@@ -14,7 +14,15 @@ The desired file extensions were coded manually for each conversion type. For ex
 I then used echo commands that would tell the user (showing standard output in the terminal while the script ran) what is happening when the commands that converted the files in the script were executing.
 
 This is a link to the repository page: 
-[**Source Code, Script, Converted Files**](https://github.com/slahari1/slahari1-convert-documents)
-[*original writing*](https://github.com/slahari1/slahari1-convert-documents/blob/master/original_writing.md)
+[**Source Code, Script, Converted Files**](https://github.com/slahari1/slahari1-convert-documents)  
+
+These are the links to individual files (html, pdf, odt, and docx are automatically downloaded):  
+[*original writing*](https://github.com/slahari1/slahari1-convert-documents/blob/master/original_writing.md)  
+[*script*](https://github.com/slahari1/slahari1-convert-documents/blob/master/convert_original_writing.sh)  
+[*html file*](https://github.com/slahari1/slahari1-convert-documents/raw/master/original_writing.html)  
+[*docx file*](https://github.com/slahari1/slahari1-convert-documents/raw/master/original_writing.docx)  
+[*pdf file*](https://github.com/slahari1/slahari1-convert-documents/raw/master/original_writing.pdf)  
+[*odt file*](https://github.com/slahari1/slahari1-convert-documents/raw/master/original_writing.odt)  
+[*txt file*](https://github.com/slahari1/slahari1-convert-documents/blob/master/original_writing.txt)  
 
 
