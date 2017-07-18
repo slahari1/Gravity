@@ -14,7 +14,6 @@ The desired file extensions were coded manually for each conversion type. For ex
 I then used echo commands that would tell the user (showing standard output in the terminal while the script ran) what is happening when the commands that converted the files in the script were executing.
 
 This is a link to the repository page: 
-https://github.com/slahari1/slahari1-convert-documents
-
+[Github repository](https://github.com/slahari1/slahari1-convert-documents/ "Source Code, Converted Files, and Script File")
 
 
