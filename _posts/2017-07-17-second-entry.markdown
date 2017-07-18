@@ -16,7 +16,7 @@ I then used echo commands that would tell the user (showing standard output in t
 This is a link to the repository page: 
 [**Source Code, Script, Converted Files**](https://github.com/slahari1/slahari1-convert-documents)  
 
-These are the links to individual files (html, pdf, odt, and docx are automatically downloaded):  
+These are the links to individual files (pdf, odt, and docx are automatically downloaded):  
 [*original writing*](https://github.com/slahari1/slahari1-convert-documents/blob/master/original_writing.md)  
 [*script*](https://github.com/slahari1/slahari1-convert-documents/blob/master/convert_original_writing.sh)  
 [*html file*](https://github.com/slahari1/slahari1-convert-documents/raw/master/original_writing.html)  
