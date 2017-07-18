@@ -13,5 +13,8 @@ I used this code, "$(echo -n $INPUTFILE | head -c -3)" in order to remove the fi
 The desired file extensions were coded manually for each conversion type. For example, "pandoc -o $OUTPUTNAME.html $INPUTFILE".
 I then used echo commands that would tell the user (showing standard output in the terminal while the script ran) what is happening when the commands that converted the files in the script were executing.
 
+This is a link to the repository page: 
+<a href="https://github.com/slahari1/slahari1-convert-documents" target=_blank <a/>
+
 
 
