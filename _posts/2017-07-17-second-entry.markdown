@@ -15,5 +15,6 @@ I then used echo commands that would tell the user (showing standard output in t
 
 This is a link to the repository page: 
 [**Source Code, Script, Converted Files**](https://github.com/slahari1/slahari1-convert-documents)
+[*original writing*](https://github.com/slahari1/slahari1-convert-documents/blob/master/original_writing.md)
 
 
