@@ -18,4 +18,6 @@ The current database is then dumped into an export file and the temp file from t
 
 Here is a link to the repository that holds the scripts and back-up files:
 [**Repository**](https://github.com/slahari1/slahari1-data)  
+<a href="https://kristenl17.wordpress.com/" target="_blank">Kristen's Blog</a>
+
 
