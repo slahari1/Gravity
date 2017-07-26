@@ -17,7 +17,7 @@ The contents of the temp file is then loaded into the table.
 The current database is then dumped into an export file and the temp file from the MySQL system is removed.
 
 Here is a link to the repository that holds the scripts and back-up files:
-<a href="https://github.com/slahari1/slahari1-data/" target="_blank">Repository</a>  
+<a href="https://github.com/slahari1/slahari1-data/" target="_blank"><em>Repository<em></a>  
 
 
 
